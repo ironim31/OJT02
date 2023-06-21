@@ -205,6 +205,51 @@ footer{
     #kv_h1 {
         display: none;
     }
+
+
+
+    /* 記事部分 */
+
+    h2 {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 3.7%;
+        margin-bottom: 0.3%;
+        font-weight: bold;
+    }
+
+.container{
+    display: flex;
+    flex-direction: column;
 }
 
-/* レスポンシブここまで */
+.box{
+    margin: 0 auto 3%;
+    height: 100vw;
+    width: 100%;
+}
+
+.box span{
+    display: block;
+}
+
+.box span p{
+    display: block;
+}
+
+.box img{
+width: 100%;
+}
+
+h3{
+    font-size: 16px;
+}
+
+.description p {
+    margin: 3% 0;
+}
+
+
+
+
+}/* レスポンシブここまで */

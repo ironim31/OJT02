@@ -42,7 +42,6 @@
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
                 <span>READ MORE <p></p></span>
-
             </div>
 
             <div class="box">
