@@ -32,6 +32,64 @@
         </section>
     </header>
 
+    <section>
+        <h2>Latest Articles</h2>
+        <div class="container">
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE <p></p></span>
+
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE</span>
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE</span>
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE</span>
+            </div>
+
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE</span>
+            </div>
+            <div class="box">
+                <img src="./assets/img/post_img_1.png" alt="">
+                <div class="description">
+                    <p>2018/5/20</p>
+                    <h3>おしゃれカフェありますよ</h3>
+                </div>
+                <span>READ MORE</span>
+        </div>
+    </section>
+
 </body>
 
 </html>
