@@ -51,7 +51,7 @@
                     <p>2018/5/20</p>
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
-                <span>READ MORE</span>
+                <span>READ MORE <p></p></span>
             </div>
 
             <div class="box">
@@ -60,7 +60,7 @@
                     <p>2018/5/20</p>
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
-                <span>READ MORE</span>
+                <span>READ MORE <p></p></span>
             </div>
 
             <div class="box">
@@ -69,7 +69,7 @@
                     <p>2018/5/20</p>
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
-                <span>READ MORE</span>
+                <span>READ MORE <p></p></span>
             </div>
 
             <div class="box">
@@ -78,7 +78,7 @@
                     <p>2018/5/20</p>
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
-                <span>READ MORE</span>
+                <span>READ MORE <p></p></span>
             </div>
             <div class="box">
                 <img src="./assets/img/post_img_1.png" alt="">
@@ -86,9 +86,12 @@
                     <p>2018/5/20</p>
                     <h3>おしゃれカフェありますよ</h3>
                 </div>
-                <span>READ MORE</span>
+                <span>READ MORE <p id="line"></p></span>
         </div>
     </section>
+    <footer>
+        <p>Copyright © Shinohara. ALL RIGHTS RESERVED.</p>
+    </footer>
 
 </body>
 
