@@ -115,21 +115,20 @@ h2 {
     position: absolute;
     bottom: -7px;
 }
-
-/* 
-.box:hover span p #line{
-    right: 4px;
-    width: 100px;
+.box:hover span p {
+    right: 0px;
+    width: 70px;
     height: 2px;
     background-color: black;
     position: absolute;
-    bottom: -27px;
-    transition:  0.3s;
-} */
+    bottom: -7px;
+    transition: 2s;
+}
+
 
 /* フッター */
 footer{
-    width: 100vw;
+    width: 100%;
     height: 10vw;
     background-color: black;
     color: white;
