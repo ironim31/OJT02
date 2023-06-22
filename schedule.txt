@@ -4,8 +4,8 @@
 4. フッター 6/20
 5.1 レスポンシブ KV 6/21
 5.2 レスポンシブ 記事部分 6/21
-6. js 6/21
-7. wordpress追加 6/22
+6. wordpress追加 6/22
+7. js 6/21
 8. 予備装備　6/23
 
 onedrive:https://onedrive.live.com/?authkey=%21ANbSs4aRRQ83qqc&cid=AA35015DCC52176E&id=AA35015DCC52176E%2164768&parId=AA35015DCC52176E%2166801&o=OneUp
