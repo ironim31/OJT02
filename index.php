@@ -62,7 +62,7 @@
             <div class="box">
             <img src="<?php echo get_the_post_thumbnail_url(get_the_ID(), "large"); ?>" alt="programming">
                 <div class="description">
-                    <p><?php the_date(); ?></p>
+                    <p><?php echo get_the_date();?></p>
                     <h3><?php the_title(); ?></h3>
                 </div>
                 <span>READ MORE <p id="line"></p></span>
