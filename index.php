@@ -56,6 +56,21 @@
             <span>READ MORE <p id="line"></p></span>
         </div>
 
+        <!-- メインループ(記事の取得) -->
+        <?php if ( have_posts() ) : ?>
+            <?php while ( have_posts() ) : the_post(); ?>
+            <div class="box">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/post_img_6.png" alt="">
+                <div class="description">
+                    <p><?php the_date(); ?></p>
+                    <h3><?php the_title(); ?></h3>
+                </div>
+                <span>READ MORE <p id="line"></p></span>
+            </div>
+                <?php endwhile; else : ?>
+                    <p>投稿がありません</p>
+                <?php endif; ?>
+
 </section>
 </div>
 
