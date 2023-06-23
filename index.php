@@ -2,7 +2,7 @@
 
 <section>
     <h2>Latest Articles</h2>
-    <div class="container">
+    <!-- <div class="container">
         <div class="box">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/post_img_1.png" alt="">
             <div class="description">
@@ -54,7 +54,7 @@
                 <h3>ベイエリアおしゃれすぎる問題</h3>
             </div>
             <span>READ MORE <p id="line"></p></span>
-        </div>
+        </div> -->
 
         <!-- メインループ(記事の取得) -->
         <?php if ( have_posts() ) : ?>
