@@ -22,11 +22,11 @@
             </ul>
             <section>
                 <div class="kv">
-                    <img src="./assets/img/logo.png" alt="logo" class="logo">
-                    <img src="./assets/img/visual_1_pc.png" alt="kv" id="kv_img">
-                    <img src="./assets/img/visual_1_sp.png" alt="kv" id="kv_img_sp">
-                    <img src="./assets/img/visual_text_pc.png" alt="visual_text" id="kv_visual_text">
-                    <img src="./assets/img/visual_text_sp.png" alt="visual_text" id="kv_visual_text_sp">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="logo" class="logo">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/visual_1_pc.png" alt="kv" id="kv_img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/visual_1_sp.png" alt="kv" id="kv_img_sp">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/visual_text_pc.png" alt="visual_text" id="kv_visual_text">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/visual_text_sp.png" alt="visual_text" id="kv_visual_text_sp">
                 </div>
                 <h1 id="kv_h1">進化し続ける「街」アメリカンビレッジマガジン</h1>
                 <h1 id="kv_h1_sp">進化し続ける「街」<br>アメリカンビレッジマガジン</h1>
