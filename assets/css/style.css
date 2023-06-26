@@ -23,7 +23,7 @@
     z-index: 10;
 }
 
-#kv_img {
+.kv_img {
     z-index: 10;
     margin: 0 auto;
 }
@@ -174,7 +174,7 @@ footer{
         height: 71vw;
     }
 
-    #kv_img {
+    .kv_img {
         display: none;
     }
 
