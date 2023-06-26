@@ -3,7 +3,7 @@
     margin: 0 auto;
 }
 
-.header_ul {
+#menu-menu-1 {
     font-size: 13px;
     padding-top: 6vw;
     padding-right: 3.47vw;
@@ -12,7 +12,7 @@
     justify-content: flex-end;
 }
 
-.header_ul li {
+#menu-menu-1 li {
     margin-left: 25px;
 }
 
@@ -21,9 +21,15 @@
     margin: 0 auto;
     position: relative;
     z-index: 10;
+    aspect-ratio: 2.28 / 1;
+}
+
+.kv_img_slider{
+    position:relative;
 }
 
 .kv_img {
+    position: absolute;
     z-index: 10;
     margin: 0 auto;
 }
@@ -37,6 +43,7 @@
     right: -5.5%;
     bottom: -8.7%;
     width: 45%;
+    z-index: 11;
 }
 
 #kv_visual_text_sp {

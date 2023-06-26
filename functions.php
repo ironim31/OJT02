@@ -3,6 +3,13 @@
 add_theme_support("custom-header");
 // サムネイルを追加する方法
 add_theme_support("post-thumbnails");
+//メニュー有効
+function register_my_menus() { 
+    register_nav_menus( array(
+      'header' => 'ヘッダー',//表示する位置
+    ) );
+  }
+  add_action( 'after_setup_theme', 'register_my_menus' );
 
 // JavaScriptを読み込む関数
 function kv_slider_script() {
@@ -29,5 +36,5 @@ function kv_slider_script() {
 }
 
 // ※注意点：「wp_enqueue_script」は× 「wp_enqueue_scripts」と語尾に"s"を付ける必要あり
-// add_action( 'wp_enqueue_scripts', 'kv_slider_script' );
+add_action( 'wp_enqueue_scripts', 'kv_slider_script' );
 
